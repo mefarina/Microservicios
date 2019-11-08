@@ -1,0 +1,5 @@
+package com.example.app.zuul.com.example.app.zuul.filters;
+
+public class PreTiempoTranscurridoFilter {
+
+}
