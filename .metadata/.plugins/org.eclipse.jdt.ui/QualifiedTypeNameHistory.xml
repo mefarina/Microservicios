@@ -30,7 +30,15 @@
 <fullyQualifiedTypeName name="com.netflix.zuul.ZuulFilter"/>
 <fullyQualifiedTypeName name="com.netflix.zuul.context.RequestContext"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
 <fullyQualifiedTypeName name="org.slf4j.Logger"/>
-<fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.Environment"/>
+<fullyQualifiedTypeName name="org.springframework.core.env.Environment"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.context.config.annotation.RefreshScope"/>
 </qualifiedTypeNameHistroy>
