@@ -6,9 +6,11 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\melissa.a.farina\Downloads\springboot-servicio-oauth2"/>
 			<item value="C:\Users\melissa.a.farina\Downloads\springboot-servicio-commons"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="Microservicios"/>
 			<item value="a"/>
 			<item value="aa"/>
 			<item value="[artifactId]"/>
